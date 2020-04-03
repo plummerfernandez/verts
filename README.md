@@ -1,2 +1,5 @@
-# vertical-commons
-blender magic that i must back up immediately
+# Verts
+
+connectors and python-blender scripts 
+more soon! 
+
